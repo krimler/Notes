@@ -1,0 +1,21 @@
+My "unsolicited" advice to recently minted software developers.
+
+1. Stay "hardcore" technical throughout your career. That means write code, algorithms & continuously learn new stuff. Think of your work as something that will be "insightful" to others, "fundamental" and "long lasting". Not easy, but I have pursued that throughout my career.
+
+2. Don't fall for "manager" positions that are non-technical. Most of them are glorified "resource allocators".
+
+3. Be suspicious of "architecture". Instead, look for APIs and sequence diagrams. Architecture in software is pretty much fluff.
+
+4. Instead of "talking" in meetings, master the art of writing in markdown and latex. Writing and reading makes you rigorous. Talk is cheap. Talking increase entropy, writing reduces it.
+
+5. Frequent "review" meetings are a smoke screen created by higher management (read VPs), to justify their existence. Most of them haven't seen a line of code or API in decades. And it is better to keep it that way for minimal damage. In multi-geo companies, you will often see a tribe of "VPs" who view a remote development center as nothing but a "low cost" center where you can find truck loads of Java, Javascript developers. They will always view you as a "resource augmentation" center and an "order taker" although they will talk about "ownership".
+
+6. Be suspicious of people who use AI/ML in the same breadth. AI seeks causality. ML never attempts to explain causality. AI/ML is often the new buzzword for "snake oil". ML is a collection of elementary statistics and math but presented as if it will lead you to God. Since most investors and boards are sales people and technically illiterate, they fall for glib talk.
+
+7. There is money available in the capital market, lots of startups funded by easy money. Many don't even have a business plan. Just because they have been funded with millions of $, don't assume they will be another Amazon. They will speak in a cocksure tone, brag as "unicorns", but ask them about ROCE, they will look the other way. Don't forget the so called "hi tech" software development is actually "commodity" stuff - a backend DB + Java middleware + JS UI/mobile. And there are some companies who make you believe as if they are MIT, Stanford. They rarely produce anything fundamental and are "one trick" ponies. Be careful.
+
+8. These days you will see TPMs, PMs, Managers, VPs reporting to VPs and the ever "mysterious" role of a CTO :) Many, many cooks in a kitchen! Ask them for what they take as "input" and what they produce as "output". Be convinced that each layer is adding "value". You will struggle.
+
+9. Check for attrition data. If transit rate is same as in an airport, stay clear of such companies. Source of such information are from people who are "Human" and "Resourceful" :) So, verify!
+
+10. Have a long term focus on your career. Picking a company is like picking a stock. Remember "Trust" is permanently in short supply whereas chip shortage is temporary!
